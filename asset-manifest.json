@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Cal/static/css/main.184a7b1e.css",
+    "main.js": "/React-Cal/static/js/main.0b072b3f.js",
+    "static/js/787.432455a2.chunk.js": "/React-Cal/static/js/787.432455a2.chunk.js",
+    "static/media/nick.png": "/React-Cal/static/media/nick.6a671bb20b8f7312d756.png",
+    "static/media/jade.png": "/React-Cal/static/media/jade.72d1425c0c7b7d6fd2d3.png",
+    "static/media/vishal.png": "/React-Cal/static/media/vishal.b6f4fa0573c587a2f52b.png",
+    "static/media/gaurav.png": "/React-Cal/static/media/gaurav.675e41bdc3de40a78070.png",
+    "static/media/jayesh.png": "/React-Cal/static/media/jayesh.f4ab7a6cfeb3e71b0d50.png",
+    "static/media/sagar.jpg": "/React-Cal/static/media/sagar.fff201e4f93fae6e5b5d.jpg",
+    "index.html": "/React-Cal/index.html",
+    "main.184a7b1e.css.map": "/React-Cal/static/css/main.184a7b1e.css.map",
+    "main.0b072b3f.js.map": "/React-Cal/static/js/main.0b072b3f.js.map",
+    "787.432455a2.chunk.js.map": "/React-Cal/static/js/787.432455a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.184a7b1e.css",
+    "static/js/main.0b072b3f.js"
+  ]
+}
