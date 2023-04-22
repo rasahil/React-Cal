@@ -1,0 +1,16 @@
+table , th ,td{
+    border: 2px solid black;
+    text-align: center;
+  }
+  table ,td:hover{
+    height: 150px;
+    font-weight: bolder;
+    font-size: large;
+    border: 2px solid white;
+  }
+  
+  tr:hover{
+    background-color:black;
+    color: white;
+    
+  }
